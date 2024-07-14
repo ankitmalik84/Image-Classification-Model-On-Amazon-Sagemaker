@@ -82,10 +82,6 @@ The project aims to develop an image classification Machine Learning Model using
 
 ![Step Function Output](images/StepFunctionExecution.png)
 
-### Project Completion Badge
-
-![Project Completion Badge](images/aws-tailored-p4.webp)
-
 ## Conclusion
 
 This project showcases the implementation of a scalable and efficient image classification model using AWS services. By following the steps outlined, you can create a robust solution to optimize delivery operations for Scones Unlimited.
